@@ -1,7 +1,7 @@
 /*
  * File: projeto.c
  * Author: Miguel Goncalves   
- *IST Number: 194238
+ * IST Number: 194238
  * Description: Program that allows the management of events.
 */
 
